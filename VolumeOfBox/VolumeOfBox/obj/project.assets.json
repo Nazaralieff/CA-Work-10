@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "N:\\App\\Visual Studio\\Tasks\\VolumeOfBox\\VolumeOfBox\\VolumeOfBox.csproj",
+      "projectUniqueName": "C:\\Users\\Nazaralieff\\Desktop\\CA-Work-10\\VolumeOfBox\\VolumeOfBox\\VolumeOfBox.csproj",
       "projectName": "VolumeOfBox",
-      "projectPath": "N:\\App\\Visual Studio\\Tasks\\VolumeOfBox\\VolumeOfBox\\VolumeOfBox.csproj",
+      "projectPath": "C:\\Users\\Nazaralieff\\Desktop\\CA-Work-10\\VolumeOfBox\\VolumeOfBox\\VolumeOfBox.csproj",
       "packagesPath": "C:\\Users\\Nazaralieff\\.nuget\\packages\\",
-      "outputPath": "N:\\App\\Visual Studio\\Tasks\\VolumeOfBox\\VolumeOfBox\\obj\\",
+      "outputPath": "C:\\Users\\Nazaralieff\\Desktop\\CA-Work-10\\VolumeOfBox\\VolumeOfBox\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Nazaralieff\\AppData\\Roaming\\NuGet\\NuGet.Config",
