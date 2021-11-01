@@ -8,19 +8,24 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\Nazaralieff\\.nuget\\packages\\": {}
+    "C:\\Users\\tu201806044\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Nazaralieff\\Desktop\\CA-Work-10\\VolumeOfBox\\VolumeOfBox\\VolumeOfBox.csproj",
+      "projectUniqueName": "C:\\Users\\tu201806044\\Desktop\\CA-Work-10\\VolumeOfBox\\VolumeOfBox\\VolumeOfBox.csproj",
       "projectName": "VolumeOfBox",
-      "projectPath": "C:\\Users\\Nazaralieff\\Desktop\\CA-Work-10\\VolumeOfBox\\VolumeOfBox\\VolumeOfBox.csproj",
-      "packagesPath": "C:\\Users\\Nazaralieff\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Nazaralieff\\Desktop\\CA-Work-10\\VolumeOfBox\\VolumeOfBox\\obj\\",
+      "projectPath": "C:\\Users\\tu201806044\\Desktop\\CA-Work-10\\VolumeOfBox\\VolumeOfBox\\VolumeOfBox.csproj",
+      "packagesPath": "C:\\Users\\tu201806044\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\tu201806044\\Desktop\\CA-Work-10\\VolumeOfBox\\VolumeOfBox\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Nazaralieff\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\tu201806044\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -55,6 +60,12 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[3.1.20, 3.1.20]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"

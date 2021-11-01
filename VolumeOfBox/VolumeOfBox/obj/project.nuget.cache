@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "gAX5JbA8q/bvxveZkPCNKmANW2qluvvFSqcsKk2fb2MfpM/7oIkn1bxgI5OvMWl385+3ChyJ70vXzB5mgHNq7w==",
+  "dgSpecHash": "SBWB4sBTQXPLs7zzTGd2doHyKSzoa4zkwbojL71DUNdYo9AEzhfyqfc3EVhABRYwWn7mmwZK2ZGYEpa20rhYrQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Nazaralieff\\Desktop\\CA-Work-10\\VolumeOfBox\\VolumeOfBox\\VolumeOfBox.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\tu201806044\\Desktop\\CA-Work-10\\VolumeOfBox\\VolumeOfBox\\VolumeOfBox.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tu201806044\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.20\\microsoft.netcore.app.host.win-x64.3.1.20.nupkg.sha512"
+  ],
   "logs": []
 }
